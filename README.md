@@ -6,9 +6,9 @@ consumindo  API COVID19.
 # Descrição:
 
 O Covid Monitor informa numeros a respeito da pandemia de corona vírus.
-O aplicativo e um informativo do curso da pandemia de corana vírus.
+O aplicativo e um informativo do curso da pandemia .
 Os dados são obtidos da  API , Coronavirus COVID19 API.
-Pode haver pequenas diferenças nos números informados,não nos responsabilizarmos pela intorções fornecidas pela API, Coronavirus COVID19 API.
+Podem haver pequenas diferenças nos números informados, não nos responsabilizarmos pelas intorções fornecidas pela API, Coronavirus COVID19 API.
 Não temos nem um tipo de vinculo com Governo ou instituições governamentais.
 
 # Referencia:
