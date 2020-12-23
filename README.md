@@ -1,10 +1,9 @@
-# covid_monitor
-# ;]
+# covid_monitor ;]
 
 Aplicativo para monitorar curso da pandemia de Covid19 desenvolvido em Flutter, mobx ,Modular,
 consumindo  API COVID19.
 
-# Descrição:
+## Descrição:
 
 O Covid Monitor informa numeros a respeito da pandemia de corona vírus.
 O aplicativo e um informativo do curso da pandemia .
@@ -16,11 +15,11 @@ Não temos nem um tipo de vinculo com Governo ou instituições governamentais.
 
 Repositorio flutter_api_mobx, https://github.com/kheronn/flutter_api_mobx
 
-# Flutter Modular
+## Flutter Modular
 
 https://pub.dev/documentation/flutter_modular/latest/
 
-# MobX for Dart and Flutter
+## MobX for Dart and Flutter
 
 https://mobx.netlify.app/
 
